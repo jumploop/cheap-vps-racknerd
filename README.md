@@ -1,5 +1,5 @@
 <a href="https://my.racknerd.com/aff.php?aff=14748"><img src="https://racknerd.com/banners/728x90.gif" alt="RackNerd Leaderboard Banner" width="728" height="90"></a>
-
+# RackNerd 高性价比便宜 VPS 最新优惠活动
 ## [RackNerd](https://my.racknerd.com/aff.php?aff=14748) 简介
 
 [RackNerd](https://my.racknerd.com/aff.php?aff=14748) 是一家成立于 2019 年的国外 VPS 主机商，数据中心在美国洛杉矶、圣何塞、达拉斯、芝加哥和荷兰阿姆斯特丹、法国斯特拉斯堡等地。因其价格实惠、配置高、流量大、工单回复及时，已经获得了国内外众多 VPS 玩家的认可。由于经常搞促销优惠活动推出价格非常低且配置很高的套餐，曾经一度被怀疑过是一个要跑路的商家。它家虽然只是常规的中国大陆 BGP 直连线路，但实际体验很不错。而且优惠套餐卖完后不会补货，使其有成为传家宝的潜质。根据其近几年的发展和口碑来看，[RackNerd](https://my.racknerd.com/aff.php?aff=14748) 是便宜 VPS 商家中最值得推荐的之一。
