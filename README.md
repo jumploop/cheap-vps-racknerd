@@ -12,6 +12,16 @@
 
 这个页面会不定期更新 [RackNerd](https://my.racknerd.com/aff.php?aff=14748) 最新促销优惠活动和优惠购买直达链接汇总，欢迎小伙伴们持续关注并分享给需要的朋友。
 
+### 2025 黑色星期五 促销优惠活动
+
+| 内存 | CPU | 硬盘(SSD) | 流量 | 带宽 | 价格(续费同价) | 购买链接 |
+|---|---|---|---|---|---|---|
+| 1G | 1核 | 25G | 2T/月 | 1Gbps | $10.6/年  |[点此购买](https://my.racknerd.com/aff.php?aff=14748&pid=923) |
+| 2.5G | 2核 | 45G | 3T/月 | 1Gbps | $18.66/年 |[点此购买](https://my.racknerd.com/aff.php?aff=14748&pid=924) |
+| 4G | 3核 | 65G | 6.5T/月 | 1Gbps | $29.98/年  |[点此购买](https://my.racknerd.com/aff.php?aff=14748&pid=925) |
+| 6G | 5核 | 100G | 10T/月 | 1Gbps | $44.98/年 |[点此购买](https://my.racknerd.com/aff.php?aff=14748&pid=926) |
+| 8G | 6核 | 150G | 20T/月 | 1Gbps | $62.49/年 |[点此购买](https://my.racknerd.com/aff.php?aff=14748&pid=927) |
+
 ### 2025 年 RackNerd 双十一 VPS 促销活动来袭，2G 以上配置均可选择 DC02 机房
 
 | 内存 | CPU | 硬盘(SSD) | 流量 | 带宽 | 价格(续费同价) |可选机房| 购买链接 |
