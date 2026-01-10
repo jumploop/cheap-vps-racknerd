@@ -71,6 +71,13 @@
 * 优先选择**圣何塞(San Jose)**、**洛杉矶(Los Angeles)**、**西雅图(Seattle)** 这几个机房，都在美国西海岸，离中国大陆近延迟低。
 * 不同运营商不同时段的网络情况会有差异，预算充足的小伙伴可以多个机房都买，另外的可作为备用。像博主自己以上提到的机房都在用。
 
+## 如果无法通过Xshell或者MobaXterm登录，可以通过webssh进行登录
+
+webssh入口：https://webssh.douxiaoqing.dpdns.org
+<img width="1912" height="922" alt="image" src="https://github.com/user-attachments/assets/89149815-ea7f-4738-af02-54a7dac24471" />
+<img width="1912" height="922" alt="image" src="https://github.com/user-attachments/assets/c19a6ef7-cbdb-4fc6-a13f-d805e35f863a" />
+
+
 ## 注意事项和其它说明
 
 * 建议购买至少 1GB 内存配置的 VPS ，以获得更好的使用体验。
