@@ -12,6 +12,16 @@
 
 这个页面会不定期更新 [RackNerd](https://my.racknerd.com/aff.php?aff=14748) 最新促销优惠活动和优惠购买直达链接汇总，欢迎小伙伴们持续关注并分享给需要的朋友。
 
+### 2026年 新年 促销优惠活动
+
+| 内存 | CPU  | 硬盘(SSD) | 流量     | 带宽  | 价格(续费同价) | 购买链接 |
+| :--- | :--- | :-------- | :------- | :---- | :------------- | :------- |
+| 1G   | 1核  | 24G       | 2T/月    | 1Gbps | $11.29/年      | [点此购买](https://my.racknerd.com/aff.php?aff=14748&pid=903) |
+| 2G   | 1核  | 40G       | 3.5T/月  | 1Gbps | $18.29/年      | [点此购买](https://my.racknerd.com/aff.php?aff=14748&pid=904) |
+| 3.5G | 2核  | 65G       | 7T/月    | 1Gbps | $32.49/年      | [点此购买](https://my.racknerd.com/aff.php?aff=14748&pid=905) |
+| 4G   | 3核  | 105G      | 9T/月    | 1Gbps | $43.88/年      | [点此购买](https://my.racknerd.com/aff.php?aff=14748&pid=906) |
+| 6G   | 4核  | 140G      | 12T/月   | 1Gbps | $59.99/年      | [点此购买](https://my.racknerd.com/aff.php?aff=14748&pid=907) |
+
 ### 2025 黑色星期五 促销优惠活动
 
 | 内存 | CPU | 硬盘(SSD) | 流量 | 带宽 | 价格(续费同价) | 购买链接 |
